@@ -73,7 +73,7 @@ This layered approach ensures findings are both statistically sound and business
 
 ## 📈 Dashboard Preview
 
-> *Power BI dashboard — screenshots to be added.*
+![Customer Behavior Dashboard](dashboard.png)
 
 The interactive dashboard includes:
 - KPI cards: Total Customers (3.9K), Average Purchase ($59.76), Average Rating (3.75)
